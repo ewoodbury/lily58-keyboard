@@ -4,7 +4,7 @@ Firmware files for my Lily58 keyboard configuration
 Layout built by [QMK Configurator](https://config.qmk.fm/#/lily58/rev1/LAYOUT).
 
 ## Instructions
-- Flash firmware by downloading [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
+- Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 - Open the application
 - Select the hex file (either Windows or Mac Version)
 - Connect the left keyboard via USB and click reset button on keyboard PCB
